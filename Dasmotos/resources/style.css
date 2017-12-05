@@ -1,0 +1,38 @@
+/*Changes all font to Helvetica*/
+html {
+  font-family: Helvetica;
+}
+
+.title {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  text-align: center;
+}
+
+/*Only changes text content*/
+.brush,
+.frame,
+.paint {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brush {
+  background-color: mediumspringgreen;
+}
+
+.frame {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+.start {
+  font-weight: bold;
+  color: blue;
+}

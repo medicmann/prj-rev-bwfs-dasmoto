@@ -1,0 +1,33 @@
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg
+(Design Specifications)
+
+Title Header:
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+
+  text is centered horizontally
+
+1st, 2nd, 3rd content headers:
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+
+1st content header background:
+  background-color: mediumspringgreen;
+
+2nd content header background:
+  background-color: lightcoral;
+
+3rd content header background:
+  background-color: skyblue;
+
+"Starting" price descriptors:
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+
+  (Assuming entire page is supposed to be Helvetica we can omit specific
+   font descriptors in each selector)

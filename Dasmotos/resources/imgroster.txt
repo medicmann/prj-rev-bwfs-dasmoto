@@ -1,0 +1,11 @@
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg
+(Multicolored tiled background)
+
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/hacksaw.jpeg
+(Paintbrushes)
+
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/frames.jpeg
+(Multicolored picture frames)
+
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/finnish.jpeg
+(Paint mess on table)
